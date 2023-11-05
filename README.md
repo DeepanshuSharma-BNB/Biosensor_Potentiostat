@@ -1,5 +1,5 @@
 # Potentiostat for Biosensors - FlexiPot
-Following is the first draft of the portable potentiostat project - FlexiPot. Potentiostat is visioned to be used as low cost, wireless setup on a flexible circuit.
+Following is the first draft of the portable potentiostat project - FlexiPot. Potentiostat is visioned to be used as low cost, wireless setup on a flexible circuit fpr various biomaker detection applications.
 
 ![Applications](https://github.com/DeepanshuSharma-BNB/Biosensor_Potentiostat/blob/main/graphic.png)
 
